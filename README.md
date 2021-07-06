@@ -1,4 +1,4 @@
-# Hello-World-
+# HelloWorld
 My first repository!
 ahhh~
 nothing special
